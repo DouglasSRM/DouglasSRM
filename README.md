@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasSRM&layout=compact&theme=dracula)
+  <a href="https://github.com/DouglasSRM">
+    <img height="180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasSRM&layout=compact&theme=dracula"/>
 </div>
