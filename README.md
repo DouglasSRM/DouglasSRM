@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   <a href="https://github.com/DouglasSRM">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasSRM&layout=compact&theme=aura"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasSRM&layout=compact&theme=tokyonight"/>
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DouglasSRM&theme=tokyonight&show_icons=true&include_all_commits=true"/>
 </div>
 
