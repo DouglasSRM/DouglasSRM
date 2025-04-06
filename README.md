@@ -24,6 +24,4 @@ Here are some ideas to get you started:
 - **Kotlin**
 - **Java**
 - **Delphi**
-- **HTML & CSS**
-- **JavaScript**
-- **Ruby on Rails**
+- **React**
