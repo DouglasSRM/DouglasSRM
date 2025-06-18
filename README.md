@@ -21,6 +21,4 @@ Here are some ideas to get you started:
 </div>
 
 ## 💻 I’m currently learning:
-- **Go**
-- **Kotlin**
-- **React**
+- **Godot**
